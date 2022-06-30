@@ -1,0 +1,1 @@
+message.getText().toString()
